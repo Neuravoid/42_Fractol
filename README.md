@@ -42,7 +42,7 @@ cd fract-ol
 ### Compile
 
 ```bash
-make
+make bonus
 ```
 
 ## Usage
@@ -63,7 +63,7 @@ Available fractal names:
 Example:
 
 ```bash
-./fractol julia −0.7269 0.1889
+./fractol julia -0.7269 0.1889
 ```
 
 ## Controls
