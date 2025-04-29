@@ -35,7 +35,7 @@ Each fractal is rendered with high precision and offers real-time interaction th
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your_username/fract-ol.git
+git clone https://github.com/Neuravoid/42_Fractol.git
 cd fract-ol
 ```
 
